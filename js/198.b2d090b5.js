@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknules_web_lab_ui"]=self["webpackChunknules_web_lab_ui"]||[]).push([[198],{2198:function(e,u,n){n.r(u),n.d(u,{default:function(){return c}});var r=n(3396),t=n(7139);function s(e,u,n,s,a,l){return(0,r.wg)(),(0,r.iD)("h1",null,"Auth user - "+(0,t.zw)(a.username),1)}var a={data(){return{username:this.$store.getters.username}}},l=n(89);const i=(0,l.Z)(a,[["render",s]]);var c=i}}]);
+//# sourceMappingURL=198.b2d090b5.js.map
