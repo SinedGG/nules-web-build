@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknules_web_lab_ui"]=self["webpackChunknules_web_lab_ui"]||[]).push([[180],{2180:function(e,n,u){u.r(n),u.d(n,{default:function(){return c}});var r=u(3396),t=u(7139);function s(e,n,u,s,a,l){return(0,r.wg)(),(0,r.iD)("h1",null,"Авторизований користувач - "+(0,t.zw)(a.username),1)}var a={data(){return{username:this.$store.getters.username}}},l=u(89);const i=(0,l.Z)(a,[["render",s]]);var c=i}}]);
+//# sourceMappingURL=180.5b2bc77e.js.map
