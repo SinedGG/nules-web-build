@@ -1,0 +1,1 @@
+.header{overflow:hidden;padding:20px 10px;display:flex;justify-content:center}.header a:hover{background-color:var(--surface-border)}.header a{color:#000;text-align:center;padding:12px;text-decoration:none;font-size:18px;line-height:25px;border-radius:4px}.test{display:flex;flex-direction:column}
